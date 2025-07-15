@@ -51,4 +51,4 @@ cd backend
 # gemini.api.key=YOUR_API_KEY
 ./mvnw spring-boot:run
 
-![Research Assistant Demo](images/demo.png)
+
