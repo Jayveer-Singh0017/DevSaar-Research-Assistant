@@ -6,8 +6,16 @@ A smart and lightweight browser-based research assistant that helps users summar
 
 ## 🚀 Features
 
-- 🔍 Summarize selected text from web pages
-- 💡 Suggest related research topics
+- 🔍 **Summarize Text**  
+  Quickly get a concise summary of long or selected text.
+- 💡 **Suggest Related Topics**  
+  Get intelligent topic suggestions to expand your research.  
+- 🌏 **Translate into Hindi**  
+  Instantly translate any English research text into fluent Hindi.
+  - 📇 **Generate Flashcards**  
+  Create flashcards with questions and answers related the selected text — perfect for revision.
+- 📚 **Generate References**  
+  Suggests reliable sources or reference links for further reading. 
 - 🌐 Fast and secure Gemini API integration
 - 🔐 API key protected (loaded via environment variables)
 - 🌈 Clean, minimal UI with extension support
