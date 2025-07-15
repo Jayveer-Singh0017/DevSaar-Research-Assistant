@@ -27,9 +27,9 @@ Research-Assistant/
 ## ⚙️ Technologies Used
 
 - **Backend:** Java, Spring Boot, WebClient
-- **Frontend:** HTML, JS (or React if used)
+- **Frontend:** HTML,CSS and JS
 - **API:** Gemini Pro (Google Generative AI)
-- **Build Tools:** Maven, Webpack (if used)
+- **Build Tools:** Maven
 
 ---
 
